@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "commonpet_lib_sch")(type "KiCad")(uri "${KIPRJMOD}/commonpet_lib_sch.kicad_sym")(options "")(descr ""))
+)
