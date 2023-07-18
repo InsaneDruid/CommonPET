@@ -14,7 +14,9 @@ For the original, two-board SuperPet (U9) and the Comboboard Version (U36) diffe
 Thus, using only 3 Rows of connectors and one jumper is enough to be able to interface with either version of the SuperPet boards.
 
 
-* For ComboBoard SuperPets, connect the ribbon cable going to the U36 Socket on the leftmost rows and set the jumper to 1-2 accordingly. (Option A)
-![OS/9 MMU addon board Option A](https://github.com/InsaneDruid/CommonPET/blob/main/os9_mmu/images/option_a_comboboard) 
-* For two-board SuperPets, connect the ribbon cable going to the U9 Socket on the rightmost rows and set the jumper to 2-3 (Option B)
+* For *ComboBoard SuperPets*, connect the ribbon cable going to the U36 Socket on the leftmost rows and set the jumper to 1-2. (Option A)
+  
+![OS/9 MMU addon board Option A](https://github.com/InsaneDruid/CommonPET/blob/main/os9_mmu/images/option_a_comboboard.png) 
+* For *two-board SuperPets*, connect the ribbon cable going to the U9 Socket on the rightmost rows and set the jumper to 2-3. (Option B)
+  
 ![OS/9 MMU addon board Option B](https://github.com/InsaneDruid/CommonPET/blob/main/os9_mmu/images/option_b_dualboard.png) 
